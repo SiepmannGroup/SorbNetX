@@ -1,0 +1,10 @@
+{
+    "train_components": [1, 2, 3],
+    "test_components": [6, 7, 8],
+    "model_class": "SorbNetX",
+    "n_site": 2,
+    "lr_init": 0.02,
+    "lr_decay": 0.998,
+    "reg": 5e-6,
+    "epoch": 300
+}
